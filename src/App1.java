@@ -7,6 +7,6 @@ public class App1 {
         double gpa = 2.7;
         boolean isMale = true;
 
-        System.out.println(35);
+        System.out.println(isMale);
     }
 }
