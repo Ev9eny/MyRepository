@@ -9,6 +9,6 @@ public class App11 {
     }
     public static void sayHi(String name, int age){
 
-        System.out.println("Hello " +name);
+        System.out.println("Hello " +name+ ",\n you are " +age);
     }
 }
