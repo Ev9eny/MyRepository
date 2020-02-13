@@ -10,3 +10,4 @@ public class App12 {
         return (numberToCube * numberToCube * numberToCube);
     }
 }
+
